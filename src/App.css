@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+button {
+  color: white;
+  padding: 3px 5px;
+  margin-left: 10px;
+  background-color: green;
+  border: none;
+}
+
+button[disabled] {
+  opacity: 0.5;
+}
+
+.error {
+  color: red;
+}
